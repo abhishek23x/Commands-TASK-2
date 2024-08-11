@@ -1,6 +1,6 @@
 # Commands-TASK-2
 
-👉🏻*Copy Code Below*
+👉🏻Copy Code Below
 
 ```bash
 #!/bin/sh
